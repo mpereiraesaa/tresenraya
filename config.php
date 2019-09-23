@@ -2,9 +2,9 @@
 
 class database {
     private $DB_host = "localhost";
-    private $DB_user = "XXXXX";
-    private $DB_pass = "XXXXX";
-    private $DB_name = "XXXXX";
+    private $DB_user = "manuel";
+    private $DB_pass = "movilnet";
+    private $DB_name = "tresenraya";
     public $conn;
 
     public function __construct() {
