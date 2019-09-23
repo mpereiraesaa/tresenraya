@@ -2,8 +2,8 @@
 
 class database {
     private $DB_host = "localhost";
-    private $DB_user = "manuel";
-    private $DB_pass = "movilnet";
+    private $DB_user = "xxxx";
+    private $DB_pass = "xxxx";
     private $DB_name = "tresenraya";
     public $conn;
 
